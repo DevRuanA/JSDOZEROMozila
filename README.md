@@ -1,2 +1,0 @@
-# JSDOZEROMozila
-Leitura + prática MDN
